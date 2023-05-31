@@ -8,7 +8,7 @@ In this tutorial, we will demonstrate the process of network file sharing and se
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Network File Shares and Permissions](https://www.youtube.com)
+- ### [YouTube: Network File Shares and Permissions](https://youtu.be/zo3nNB7XI3M)
 
 <h2>Environments and Technologies Used</h2>
 
